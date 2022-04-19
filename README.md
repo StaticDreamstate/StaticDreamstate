@@ -1,5 +1,5 @@
 
-<h3>Programming Languages:</h3>
+<h3>Programming Languages</h3>
 
 <p align="left">
  
