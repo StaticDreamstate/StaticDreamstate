@@ -12,5 +12,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="36" heigth="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="36" heigth="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" heigth="36"/>
-<img src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" width="36" heigth="36" />
+<img src="https://apprecs.org/ios/images/app-icons/256/0e/500466958.jpg" width="36" heigth="36" />
 </p>
