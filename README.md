@@ -12,4 +12,6 @@
 <img src="https://apprecs.org/ios/images/app-icons/256/0e/500466958.jpg" width="36" heigth="36" />
 </p>
 
+<h3>EOF</h3>
+
 <img src="https://komarev.com/ghpvc/?username=StaticDreamstate&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="StaticDreamstate" />
