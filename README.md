@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=StaticDreamstate&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="StaticDreamstate" />
 
 
-<p align="center" padding-botton= 10px> <img src="https://github-readme-stats.vercel.app/api?username=StaticDreamstate&show_icons=true&theme=gotham" alt="StaticDreamstate"/>
+<p padding-botton= 10px> <img src="https://github-readme-stats.vercel.app/api?username=StaticDreamstate&show_icons=true&theme=gotham" alt="StaticDreamstate"/>
  
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaticDreamstate&layout=compact&langs_count=16&theme=dark"/>
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaticDreamstate&layout=compact&langs_count=16&theme=dark"/>
 
