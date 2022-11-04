@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="36" heigth="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" heigth="36"/>
 <img src="https://apprecs.org/ios/images/app-icons/256/0e/500466958.jpg" width="36" heigth="36" />
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" width="36" heigth="36" />
+ <img src="https://www.php.net/images/logos/new-php-logo.svg" width="36" heigth="36" />
 </p>
 
 <h3>EOF</h3>
